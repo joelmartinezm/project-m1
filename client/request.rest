@@ -1,0 +1,7 @@
+GET http://localhost:3000/api/trips/
+Content-Type: application/json
+
+{
+    "departure_airport_iata":"BCN",
+    "arrival_airport_iata":"CMN"
+}
